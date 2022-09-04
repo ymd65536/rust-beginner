@@ -9,7 +9,7 @@ Udemy Rustプログラミング入門 (最高峰・最難解言語)
 補完が効かない場合は以下を`settings.json`に追加する。
 
 ```json
-  "rust":{
+  "[rust]":{
     "editor.defaultFormatter": "rust-lang.rust",
     "editor.formatOnSave":true
   }
