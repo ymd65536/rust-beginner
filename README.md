@@ -35,7 +35,7 @@ Udemy Rustプログラミング入門 (最高峰・最難解言語)
 プロジェクトを新規作成する。
 
 ```bash
-cargo new HelloWorld
+cargo new hello_world
 ```
 
 ライブラリとしてプロジェクトを新規に作成する。
