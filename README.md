@@ -41,7 +41,7 @@ cargo new hello_world
 ライブラリとしてプロジェクトを新規に作成する。
 
 ```bash
-cargo new --lib HelloWorld
+cargo new --lib hello_world
 ```
 
 ```bash
