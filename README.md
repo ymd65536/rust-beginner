@@ -23,3 +23,35 @@ Udemy Rustプログラミング入門 (最高峰・最難解言語)
     "editor.formatOnSave":true
   }
 ```
+
+## 最初に知っておくべき知識
+
+### crate.io
+
+外部ライブラリは[crate.io](https://crates.io/)を使うと良い。
+
+### 基本コマンド
+
+プロジェクトを新規作成する。
+
+```bash
+cargo new HelloWorld
+```
+
+ライブラリとしてプロジェクトを新規に作成する。
+
+```bash
+cargo new --lib HelloWorld
+```
+
+```bash
+cargo check
+```
+
+```bash
+cargo build
+```
+
+```bash
+cargo run
+```
