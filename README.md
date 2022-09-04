@@ -44,13 +44,19 @@ cargo new hello_world
 cargo new --lib hello_world
 ```
 
+構文をチェックする。
+
 ```bash
 cargo check
 ```
 
+プロジェクトをビルドする。
+
 ```bash
 cargo build
 ```
+
+プロジェクトを実行する。
 
 ```bash
 cargo run
